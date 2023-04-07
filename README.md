@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **[visveshkhanna@gmail.com](mailto:visveshkhanna@gmail.com)**
 
-- ⚡ Fun fact **Time spent searching solutions << Time spent programming**
+- ⚡ Fun fact **Time spent searching solutions < Time spent programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
